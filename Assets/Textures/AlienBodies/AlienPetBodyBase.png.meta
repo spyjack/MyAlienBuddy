@@ -1,0 +1,341 @@
+fileFormatVersion: 2
+guid: 939173e0ae960ee4d95afe0995667ced
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5859624840208020978
+    second: Debugger_Head
+  - first:
+      213: 7423452579823886381
+    second: Debugger_Eye
+  - first:
+      213: 1836230999495251417
+    second: Debugger_Torso
+  - first:
+      213: -4452970024553151939
+    second: Debugger_Mouth_Happy
+  - first:
+      213: -4654404222843607929
+    second: Debugger_Hand
+  - first:
+      213: 4484813163125661741
+    second: Debugger_Arm
+  - first:
+      213: -2264434960583657258
+    second: Debugger_Leg
+  - first:
+      213: -1163904295594508725
+    second: Debugger_Foot
+  - first:
+      213: 5765101461061681252
+    second: Debugger_Mouth_Frown
+  - first:
+      213: 8878720419035087905
+    second: Debugger_Mouth_Sad
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Debugger_Head
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 741
+        width: 264
+        height: 264
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c26bd09361e92a34cb56930d7dc2bed9
+      internalID: -5859624840208020978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debugger_Eye
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 863
+        width: 67
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae1307879184c8c4891af02ef50c9d14
+      internalID: 7423452579823886381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debugger_Torso
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 583
+        width: 376
+        height: 379
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39abdfee3ba0c794187342f42dd63c7d
+      internalID: 1836230999495251417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debugger_Mouth_Happy
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 768
+        width: 172
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 666d20ebaf4771549b213b3ee4e1399b
+      internalID: -4452970024553151939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debugger_Hand
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 607
+        width: 100
+        height: 70
+      alignment: 9
+      pivot: {x: 0.21390563, y: 0.5314401}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c73c8054e67e1dd46abd1434364398b6
+      internalID: -4654404222843607929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debugger_Arm
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 466
+        width: 258
+        height: 92
+      alignment: 9
+      pivot: {x: 0.17586154, y: 0.5239218}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6aa4aff483491e48bc0dd45562b7180
+      internalID: 4484813163125661741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debugger_Leg
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 248
+        width: 104
+        height: 261
+      alignment: 9
+      pivot: {x: 0.43651816, y: 0.8288449}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b7a80c0c122bf4459974c26bf26c976
+      internalID: -2264434960583657258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debugger_Foot
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 88
+        width: 128
+        height: 82
+      alignment: 9
+      pivot: {x: 0.29368258, y: 0.68786716}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 023244f84051bc04fa26a25ec2db306b
+      internalID: -1163904295594508725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debugger_Mouth_Frown
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 687
+        width: 172
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abf343b9d522d56479f95c0feda308b6
+      internalID: 5765101461061681252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debugger_Mouth_Sad
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 595
+        width: 172
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bb6efab01e4e16428d8b1ca565f527f
+      internalID: 8878720419035087905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5a27f7f458db41b43b9f689cdc0e8bbe
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
